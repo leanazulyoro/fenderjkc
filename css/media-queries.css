@@ -1,0 +1,136 @@
+@media (max-width: 1200px) {
+  .page {
+    width: 100%;
+    margin: 0;
+  }
+  
+  #home #guitar1 {
+    margin-top: -60px;
+    width: 60%;
+  }
+  #home .col {
+    width: 50%;
+  }
+  #home .col h1 {
+    width: 85%;
+    background-size: 100%;
+  }
+  #home nav ul {
+    list-style: none;
+    list-style-image: none;
+    font-size: 22px;
+    text-transform: uppercase;
+    padding: 40px 0 0;
+    margin:0 0 0 8px;
+  }
+}
+@media (max-width: 1165px) {
+  #home nav ul {
+    font-size: 20px;
+  }
+}
+@media (max-width: 1075px) {
+  #home nav ul {
+    font-size: 18px;
+  }
+  #home .col {
+    width: 52%;
+  }
+}
+@media (max-width: 986px) {
+  #home .col {
+    width: 56%;
+  }
+  #home .col h1 {
+    width: 92%;
+  }
+}
+
+@media (max-width: 800px) {
+  #guitar1,#kurt1 {
+    display: none;
+  }
+  #home .col {
+    width: 90%;
+    margin: 0 5%;
+  }
+  #home .col h1 {
+    width: 100%;
+    height:500px;
+    margin-top: 65px;   
+  }
+  #social-btns {
+    position: absolute;
+    top: 22px;
+    right: 30px;
+  }
+  #home #social-btns label{
+    display:none;
+  }
+  #home nav {
+    margin-top:10px;
+    height: 50px;
+    width: 50px;
+    border:1px solid red;
+  }
+  #home nav * {
+    display:none;
+  }
+}
+
+@media (max-width: 600px) {
+  #home .col h1 {
+    height:370px;
+  }
+  #home nav * {
+    display:none;
+  }
+}
+@media (max-width: 450px) {
+  .page-wrapper h1 {
+    background-position: center -197px;
+    width: 100%
+    
+  }
+}
+@media (max-width: 400px) {
+  #home {
+    background: none;
+  }
+  #home .col h1 {
+    height:244px;
+  }
+  #caracteristicas {
+    background: none;
+    padding-bottom: 0;
+  }
+  #caracteristicas .main {
+    width:96%;
+    padding: 30px 2% 100px;
+    background: rgba(0, 0, 0, .7) url('../images/specs.png');
+    margin-top:-35px;
+  }
+  #caracteristicas .main article {
+    width:90%;
+    padding: 0 5%;
+    margin: 0 0 20px;
+  }
+  #caracteristicas .main article.even {
+    margin:0 0 20px;
+  }
+  #caracteristicas #guitar2 {
+    margin: -200px auto 100px;
+    float:none;
+    display: block;
+  }
+  #caracteristicas header h1{
+    top:650px;
+  }
+  
+  
+  #especificaciones #guitar3,
+  #especificaciones figure{
+    display:none;
+  }
+  
+}
