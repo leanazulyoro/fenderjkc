@@ -1,4 +1,4 @@
-# Fender Jaguar Kurt Cobain
+# [Fender Jaguar Kurt Cobain](https://leanazulyoro.github.io/fenderjkc)
 A website tribute to the Fender Jaguar Kurt Cobain edition electric guitar.
 
 I uploaded it as part of my Graphic Designer portfolio, and intent to upgrade 
