@@ -142,7 +142,7 @@ export default class Page extends Component {
                                 </ul>
 
                                 <div id="tabs-1" className="tab">
-                                    <table cellpadding="0" cellspacing="0">
+                                    <table cellPadding="0" cellSpacing="0">
                                         <tbody>
                                         <tr className="even">
                                             <td className="specs_name" valign="top" width="200" nowrap=""><b>Cuerpo</b>:</td>
@@ -200,7 +200,7 @@ export default class Page extends Component {
                                     </table>
                                 </div>
                                 <div id="tabs-2" className="tab">
-                                    <table cellpadding="0" cellspacing="0">
+                                    <table cellPadding="0" cellSpacing="0">
                                         <tbody>
                                         <tr className="even">
                                             <td className="specs_name" valign="top" width="200" nowrap=""><b>Configuración de pastilla</b>:</td>
@@ -226,7 +226,7 @@ export default class Page extends Component {
                                     </table>
                                 </div>
                                 <div id="tabs-3" className="tab">
-                                    <table cellpadding="0" cellspacing="0">
+                                    <table cellPadding="0" cellSpacing="0">
                                         <tbody>
                                         <tr className="even">
                                             <td className="specs_name" valign="top" width="200" nowrap=""><b>Model Name</b>:</td>
